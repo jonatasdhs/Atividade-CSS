@@ -1,0 +1,42 @@
+body {
+    font-family: Montserrat, sans-serif;
+    width: 870px;
+    margin-left: 25%;
+}
+.text-center {
+    text-align: center;
+}
+span {
+    color: #4169E1;
+}
+a {
+    color: #4169E1;
+}
+a:hover {
+    background-color: black;
+}
+div {
+    color: white;
+    background-color: #4169E1;
+    padding: 1px;
+    padding-left: 10px;
+    padding-right: 5px;
+    line-height: 30px;
+}
+ol {
+    padding-left: 25px;
+    text-decoration: underline;
+}
+.background-black {
+    margin-top: 40px;
+    padding: 12px 0px 12px 0px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+#sobre {
+    margin-top: 40px;
+}
+h1 {
+    margin-bottom: 45px;
+}
